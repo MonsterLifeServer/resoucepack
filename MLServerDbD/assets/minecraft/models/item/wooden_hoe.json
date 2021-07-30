@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/wood_hoe"
+	},
+	"overrides": [
+		{ 
+			"predicate": { 
+				"damage": 0.94915254
+			}, 
+			"model": "item/parks/killer/agitation"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.96610169
+			}, 
+			"model": "item/parks/killer/huann"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.98305085
+			}, 
+			"model": "item/parks/killer/noone"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/gold_hoe"
+	},
+	"overrides": [
+		{ 
+			"predicate": { 
+				"damage": 0.625 
+			}, 
+			"model": "item/parks/survivar/yamikannkaku"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.65625
+			}, 
+			"model": "item/parks/survivar/keikai"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.6875
+			}, 
+			"model": "item/parks/survivar/smart"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.71875
+			}, 
+			"model": "item/parks/survivar/dead_hard"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.75
+			}, 
+			"model": "item/parks/survivar/migaru"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.78125
+			}, 
+			"model": "item/parks/survivar/technician"
+		},	
+		{ 
+			"predicate": { 
+				"damage": 0.8125
+			}, 
+			"model": "item/parks/survivar/selfcare"
+		},	
+		{ 
+			"predicate": { 
+				"damage": 0.84375
+			}, 
+			"model": "item/parks/survivar/kyoukan"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.875
+			}, 
+			"model": "item/parks/survivar/adrenaline"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.90625
+			}, 
+			"model": "item/parks/survivar/zennryoku"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9375
+			}, 
+			"model": "item/parks/survivar/yuunou"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.96875
+			}, 
+			"model": "item/parks/survivar/kizuna"
+		}
+	]
+}

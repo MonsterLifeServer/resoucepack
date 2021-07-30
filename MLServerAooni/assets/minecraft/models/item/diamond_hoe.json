@@ -1,0 +1,38 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_hoe"
+	},
+	"overrides": [
+		{ 
+			"predicate": { 
+				"damage": 0.99743754
+			}, 
+			"model": "item/parks/huwa"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99807816
+			}, 
+			"model": "item/parks/takurou"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99871877
+			}, 
+			"model": "item/parks/mika"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99935939
+			}, 
+			"model": "item/parks/takeshi"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99999999
+			}, 
+			"model": "item/parks/hiroshi"
+		}
+	]
+}

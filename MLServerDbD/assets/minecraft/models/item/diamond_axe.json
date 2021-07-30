@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_axe"
+	},
+	"overrides": [
+		{ 
+			"predicate": { 
+				"damage": 0.99871959026
+			}, 
+			"model": "item/chain_saw_false"
+		}
+	]
+}
