@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/wood_hoe"
+	},
+	"overrides": [
+		{ 
+			"predicate": { 
+				"damage": 0.0338983050847458
+			}, 
+			"model": "item/backpack/large"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.0169491525423729
+			}, 
+			"model": "item/backpack/medium"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.001
+			}, 
+			"model": "item/backpack/small"
+		}
+	]
+}
