@@ -6,19 +6,19 @@
 	"overrides": [
 		{ 
 			"predicate": { 
-				"damage": 0.0338983050847458
+				"damage": 0.050847457627119
 			}, 
 			"model": "item/backpack/large"
 		},
 		{ 
 			"predicate": { 
-				"damage": 0.0169491525423729
+				"damage": 0.033898305084746
 			}, 
 			"model": "item/backpack/medium"
 		},
 		{ 
 			"predicate": { 
-				"damage": 0.001
+				"damage": 0.016949152542373
 			}, 
 			"model": "item/backpack/small"
 		}
