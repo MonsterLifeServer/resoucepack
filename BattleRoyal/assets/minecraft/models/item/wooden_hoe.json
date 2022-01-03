@@ -3,7 +3,49 @@
 	"textures": {
 		"layer0": "items/wood_hoe"
 	},
-	"overrides": [
+	"overrides": [ 
+		{ 
+			"predicate": { 
+				"damage": 0.8333333333333333
+			}, 
+			"model": "item/custom_item/stimulant"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.85
+			}, 
+			"model": "item/custom_item/adrenaline"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.8666666666666667
+			}, 
+			"model": "item/custom_item/analgesic"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.8833333333333333
+			}, 
+			"model": "item/custom_item/energy_drink"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9
+			}, 
+			"model": "item/custom_item/bandage"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9166666666666667
+			}, 
+			"model": "item/custom_item/aid_kit"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9333333333333333
+			}, 
+			"model": "item/custom_item/medical_kit"
+		},
 		{ 
 			"predicate": { 
 				"damage": 0.95

@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/custom_item/analgesic"
+		"layer0": "items/custom_item/stimulant"
 	}
 }
