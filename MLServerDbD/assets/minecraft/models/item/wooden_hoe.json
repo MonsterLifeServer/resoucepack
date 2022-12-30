@@ -6,19 +6,19 @@
 	"overrides": [
 		{ 
 			"predicate": { 
-				"damage": 0.94915254
+				"damage": 0.9661016949
 			}, 
 			"model": "item/parks/killer/agitation"
 		},
 		{ 
 			"predicate": { 
-				"damage": 0.96610169
+				"damage": 0.9830508475
 			}, 
 			"model": "item/parks/killer/huann"
 		},
 		{ 
 			"predicate": { 
-				"damage": 0.98305085
+				"damage": 0.9999999999
 			}, 
 			"model": "item/parks/killer/noone"
 		}
