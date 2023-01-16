@@ -8,13 +8,13 @@
 			"predicate": { 
 				"damage": 0.999359385
 			}, 
-			"model": "gui/arrow-before"
+			"model": "item/gui/arrow-before"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
-			"model": "gui/arrow-next"
+			"model": "item/gui/arrow-next"
 		}
 	]
 }
