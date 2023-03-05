@@ -6,6 +6,18 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.998078155
+			}, 
+			"model": "item/tools/bear-trap-close"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99871877
+			}, 
+			"model": "item/tools/bear-trap-open"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.999359385
 			}, 
 			"model": "item/gui/arrow-before"
