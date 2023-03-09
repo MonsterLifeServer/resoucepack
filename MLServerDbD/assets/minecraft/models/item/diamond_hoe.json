@@ -6,6 +6,12 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.99743754
+			}, 
+			"model": "item/weapons/cleaver"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.998078155
 			}, 
 			"model": "item/tools/bear-trap-close"
