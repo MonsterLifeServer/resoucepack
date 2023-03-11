@@ -341,9 +341,9 @@
 	],
 	"display": {
 		"head": {
-			"rotation": [-0.31, 0.65, 11],
-			"translation": [0, -13.75, 0],
-			"scale": [2, 2, 2]
+			"rotation": [0.16, 3.04, -17.43],
+			"translation": [8.75, -23.75, 0],
+			"scale": [2.30273, 2.17773, 2]
 		}
 	},
 	"groups": [
