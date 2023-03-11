@@ -6,6 +6,18 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9961563101
+			}, 
+			"model": "item/object/pallet-closed"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.996796925
+			}, 
+			"model": "item/object/pallet"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.99743754
 			}, 
 			"model": "item/weapons/cleaver"
