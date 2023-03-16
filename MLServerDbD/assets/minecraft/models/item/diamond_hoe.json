@@ -6,6 +6,18 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9948750801
+			}, 
+			"model": "item/object/pallet-break"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9955156951
+			}, 
+			"model": "item/tools/aid-kit"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9961563101
 			}, 
 			"model": "item/object/pallet-closed"
