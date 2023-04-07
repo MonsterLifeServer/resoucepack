@@ -6,6 +6,12 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.90625
+			}, 
+			"model": "item/parks/survivar/smart"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9375
 			}, 
 			"model": "item/parks/survivar/fixated"

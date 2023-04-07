@@ -6,6 +6,12 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9929532351
+			}, 
+			"model": "item/gui/get-over-button"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9935938501
 			}, 
 			"model": "item/object/hatch-close"
