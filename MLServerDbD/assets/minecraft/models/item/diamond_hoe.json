@@ -6,6 +6,18 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9916720051
+			}, 
+			"model": "item/offering/fragrant-crispleaf-amaranth"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9923126201
+			}, 
+			"model": "item/addon/gel-pad"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9929532351
 			}, 
 			"model": "item/gui/get-over-button"
