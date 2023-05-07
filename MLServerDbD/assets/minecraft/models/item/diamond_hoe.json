@@ -8,13 +8,13 @@
 			"predicate": { 
 				"damage": 0.9916720051
 			}, 
-			"model": "item/offering/fragrant-crispleaf-amaranth"
+			"model": "item/dbd/offering/fragrant-crispleaf-amaranth"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9923126201
 			}, 
-			"model": "item/addon/gel-pad"
+			"model": "item/dbd/addon/gel-pad"
 		},
 		{ 
 			"predicate": { 
@@ -44,7 +44,7 @@
 			"predicate": { 
 				"damage": 0.9955156951
 			}, 
-			"model": "item/tools/aid-kit"
+			"model": "item/dbd/item/aid-kit"
 		},
 		{ 
 			"predicate": { 

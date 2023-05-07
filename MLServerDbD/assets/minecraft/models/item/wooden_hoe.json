@@ -8,19 +8,19 @@
 			"predicate": { 
 				"damage": 0.9661016949
 			}, 
-			"model": "item/parks/killer/agitation"
+			"model": "item/dbd/parks/killer/agitation"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9830508475
 			}, 
-			"model": "item/parks/killer/huann"
+			"model": "item/dbd/parks/killer/huann"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
-			"model": "item/parks/killer/noone"
+			"model": "item/dbd/parks/killer/noone"
 		}
 	]
 }

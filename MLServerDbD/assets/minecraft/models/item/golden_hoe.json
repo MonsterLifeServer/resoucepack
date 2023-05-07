@@ -8,25 +8,25 @@
 			"predicate": { 
 				"damage": 0.90625
 			}, 
-			"model": "item/parks/survivar/smart"
+			"model": "item/dbd/parks/survivar/smart"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9375
 			}, 
-			"model": "item/parks/survivar/fixated"
+			"model": "item/dbd/parks/survivar/fixated"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.96875
 			}, 
-			"model": "item/parks/survivar/selfcare"
+			"model": "item/dbd/parks/survivar/selfcare"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
-			"model": "item/parks/survivar/yamikannkaku"
+			"model": "item/dbd/parks/survivar/yamikannkaku"
 		}
 	]
 }
