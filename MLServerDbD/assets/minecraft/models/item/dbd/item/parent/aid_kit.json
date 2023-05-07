@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parents": "item/generated",
+	"textures": {
+		"layer0": "items/dbd/item/aid_kit/layer0"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 0, 0]
+		}
+	}
+}

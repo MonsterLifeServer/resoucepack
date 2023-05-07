@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "aid-kit",
+	"parent": "item/dbd/item/parent/aid_kit",
 	"textures": {
-		"0": "items/tools/aid-kid/texture3",
-		"1": "items/tools/aid-kid/texture4",
-		"3": "items/tools/aid-kid/texture1",
-		"4": "items/tools/aid-kid/texture2",
-		"particle": "items/tools/aid-kid/texture3"
+		"0": "items/dbd/item/aid_kit/texture3",
+		"1": "items/dbd/item/aid_kit/texture4",
+		"3": "items/dbd/item/aid_kit/texture1",
+		"4": "items/dbd/item/aid_kit/texture2",
+		"particle": "items/dbd/item/aid_kit/texture3"
 	},
 	"elements": [
 		{

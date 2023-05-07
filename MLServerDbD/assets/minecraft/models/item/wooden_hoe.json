@@ -14,13 +14,13 @@
 			"predicate": { 
 				"damage": 0.9830508475
 			}, 
-			"model": "item/dbd/parks/killer/huann"
+			"model": "item/dbd/parks/killer/unnerving-presence"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
-			"model": "item/dbd/parks/killer/noone"
+			"model": "item/dbd/parks/killer/no-one-escapes-death"
 		}
 	]
 }

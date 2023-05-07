@@ -44,7 +44,7 @@
 			"predicate": { 
 				"damage": 0.9955156951
 			}, 
-			"model": "item/dbd/item/aid-kit"
+			"model": "item/dbd/item/aid_kit"
 		},
 		{ 
 			"predicate": { 
@@ -62,7 +62,7 @@
 			"predicate": { 
 				"damage": 0.99743754
 			}, 
-			"model": "item/weapons/cleaver"
+			"model": "item/tools/weapons/cleaver"
 		},
 		{ 
 			"predicate": { 

@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/parks/killer/agitation"
+		"layer0": "items/dbd/parks/killer/agitation"
 	}
 }
