@@ -6,6 +6,30 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9891095452
+			}, 
+			"model": "item/object/totem/rekindled"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9897501602
+			}, 
+			"model": "item/object/totem/boon"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9903907751
+			}, 
+			"model": "item/object/totem/hex"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9910313901
+			}, 
+			"model": "item/object/totem/dull"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9916720051
 			}, 
 			"model": "item/dbd/offering/fragrant-crispleaf-amaranth"
