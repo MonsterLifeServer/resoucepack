@@ -1,5 +1,6 @@
 {
 	"parent": "item/handheld",
+	"dbd-important": "必ずmodelのjsonファイル名はパークtextureのpngファイル名と統一してください！",
 	"textures": {
 		"layer0": "items/gold_hoe"
 	},
@@ -8,25 +9,33 @@
 			"predicate": { 
 				"damage": 0.90625
 			}, 
-			"model": "item/dbd/parks/survivar/smart"
+			"model": "item/dbd/parks/survivar/smart",
+			"dbd-enum": "SMART",
+			"dbd-comment": "スマートな着地"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9375
 			}, 
-			"model": "item/dbd/parks/survivar/fixated"
+			"model": "item/dbd/parks/survivar/fixated",
+			"dbd-enum": "FIXATED",
+			"dbd-comment": "執着心"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.96875
 			}, 
-			"model": "item/dbd/parks/survivar/selfcare"
+			"model": "item/dbd/parks/survivar/selfcare",
+			"dbd-enum": "SELF_CARE",
+			"dbd-comment": "セルフケア"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
-			"model": "item/dbd/parks/survivar/dark-sense"
+			"model": "item/dbd/parks/survivar/dark-sense",
+			"dbd-enum": "DARK_SENSE",
+			"dbd-comment": "闇の感覚"
 		}
 	]
 }
