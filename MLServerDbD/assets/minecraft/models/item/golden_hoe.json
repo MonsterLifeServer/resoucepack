@@ -7,6 +7,14 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.875
+			}, 
+			"model": "item/dbd/parks/survivar/sprint_burst",
+			"dbd-enum": "SPRINT_BURST",
+			"dbd-comment": "全力疾走"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.90625
 			}, 
 			"model": "item/dbd/parks/survivar/smart",
