@@ -5,7 +5,7 @@
 		"layer0": "items/gold_hoe"
 	},
 	"overrides": [
-		{ 
+		{
 			"predicate": { 
 				"damage": 0.875
 			}, 
@@ -13,7 +13,7 @@
 			"dbd-enum": "SPRINT_BURST",
 			"dbd-comment": "全力疾走"
 		},
-		{ 
+		{
 			"predicate": { 
 				"damage": 0.90625
 			}, 
@@ -21,7 +21,7 @@
 			"dbd-enum": "SMART",
 			"dbd-comment": "スマートな着地"
 		},
-		{ 
+		{
 			"predicate": { 
 				"damage": 0.9375
 			}, 
@@ -29,7 +29,7 @@
 			"dbd-enum": "FIXATED",
 			"dbd-comment": "執着心"
 		},
-		{ 
+		{
 			"predicate": { 
 				"damage": 0.96875
 			}, 
@@ -37,7 +37,7 @@
 			"dbd-enum": "SELF_CARE",
 			"dbd-comment": "セルフケア"
 		},
-		{ 
+		{
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
