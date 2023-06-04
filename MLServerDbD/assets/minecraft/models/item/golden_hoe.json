@@ -7,6 +7,14 @@
 	"overrides": [
 		{
 			"predicate": { 
+				"damage": 0.84375
+			}, 
+			"model": "item/dbd/parks/survivar/adrenaline",
+			"dbd-enum": "ADRENALINE",
+			"dbd-comment": "アドレナリン"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.875
 			}, 
 			"model": "item/dbd/parks/survivar/sprint_burst",
