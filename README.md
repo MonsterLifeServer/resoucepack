@@ -4,7 +4,7 @@
 
 [![GitHub Actions](https://badgen.net/github/checks/MonsterLifeServer/resoucepacks/master?label=build&icon=github)](https://github.com/MonsterLifeServer/resoucepacks/actions)
 [![GitHub Releases](https://badgen.net/github/release/MonsterLifeServer/resoucepacks?icon=github)](https://github.com/MonsterLifeServer/resoucepacks/releases/latest)
-[![Twitter](https://badgen.net/twitter/follow/MLServer2408?icon=twitter)](https://twitter.mlserver.xyz)
+[![Twitter](https://img.shields.io/twitter/follow/MLServer2408?style=social)](https://twitter.mlserver.xyz)
 [![Discord](https://discord.com/api/guilds/556844677115150366/widget.png)](https://discord.mlserver.xyz)
 
 ## 変更方法
