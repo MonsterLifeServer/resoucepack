@@ -6,6 +6,18 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9865470852
+			}, 
+			"model": "item/dbd/object/tv/tv-on"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9871877002
+			}, 
+			"model": "item/dbd/object/tv/tv-off"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9878283152
 			}, 
 			"model": "item/dbd/object/generator/on"

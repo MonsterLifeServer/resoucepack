@@ -1,5 +1,5 @@
-.exe
-.lnk
-.bat
+*.exe
+*.lnk
+*.bat
 resoucepacks_git-bash*
-blockbench
+blockbench/
