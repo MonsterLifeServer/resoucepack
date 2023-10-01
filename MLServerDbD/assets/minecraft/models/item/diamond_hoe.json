@@ -6,6 +6,30 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9839846252
+			}, 
+			"model": "item/dbd/object/gate-lever/dbd-gate-lever-3"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9846252402
+			}, 
+			"model": "item/dbd/object/gate-lever/dbd-gate-lever-2"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9852658552
+			}, 
+			"model": "item/dbd/object/gate-lever/dbd-gate-lever-1"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9859064702
+			}, 
+			"model": "item/dbd/object/gate-lever/dbd-gate-lever-0"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9865470852
 			}, 
 			"model": "item/dbd/object/tv/tv-on"
