@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "dbd-gate-lever",
 	"textures": {
 		"0": "items/dbd/objects/gate-lever/red-cable-texture",
 		"1": "items/dbd/objects/gate-lever/stone_slab_top",
@@ -280,7 +279,7 @@
 	"display": {
 		"head": {
 			"translation": [0, -15.25, 0],
-			"scale": [2, 2, 2]
+			"scale": [2.2, 2.2, 2.2]
 		}
 	},
 	"groups": [
