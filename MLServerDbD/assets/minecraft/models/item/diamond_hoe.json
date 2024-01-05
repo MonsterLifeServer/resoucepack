@@ -6,6 +6,12 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9833440102
+			}, 
+			"model": "item/dbd/addon/makeshift-wrap"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9839846252
 			}, 
 			"model": "item/dbd/object/gate-lever/dbd-gate-lever-3"
@@ -56,25 +62,25 @@
 			"predicate": { 
 				"damage": 0.9891095452
 			}, 
-			"model": "item/object/totem/rekindled"
+			"model": "item/dbd/object/totem/rekindled"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9897501602
 			}, 
-			"model": "item/object/totem/boon"
+			"model": "item/dbd/object/totem/boon"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9903907751
 			}, 
-			"model": "item/object/totem/hex"
+			"model": "item/dbd/object/totem/hex"
 		},
 		{ 
 			"predicate": { 
 				"damage": 0.9910313901
 			}, 
-			"model": "item/object/totem/dull"
+			"model": "item/dbd/object/totem/dull"
 		},
 		{ 
 			"predicate": { 
