@@ -9,6 +9,14 @@
 			"predicate": { 
 				"damage": 0.9491525424
 			}, 
+			"model": "item/dbd/parks/killer/unnerving_presence",
+			"dbd-enum": "SLOPPY_BUTCHER",
+			"dbd-comment": "ずさんな肉屋"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9491525424
+			}, 
 			"model": "item/dbd/parks/killer/discordance",
 			"dbd-enum": "DISCORDANCE",
 			"dbd-comment": "不協和音"
