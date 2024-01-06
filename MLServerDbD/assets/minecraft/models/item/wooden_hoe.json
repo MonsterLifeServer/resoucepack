@@ -7,9 +7,9 @@
 	"overrides": [
 		{ 
 			"predicate": { 
-				"damage": 0.9491525424
+				"damage": 0.9322033898
 			}, 
-			"model": "item/dbd/parks/killer/unnerving_presence",
+			"model": "item/dbd/parks/killer/sloppy_butcher",
 			"dbd-enum": "SLOPPY_BUTCHER",
 			"dbd-comment": "ずさんな肉屋"
 		},
