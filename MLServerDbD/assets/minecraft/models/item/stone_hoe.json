@@ -1,0 +1,41 @@
+{
+	"parent": "item/handheld",
+	"dbd-important": "必ずmodelのjsonファイル名はパークtextureのpngファイル名と統一してください！",
+	"textures": {
+		"layer0": "items/stone_hoe"
+	},
+	"overrides": [
+		{
+			"predicate": { 
+				"damage": 0.9770992366
+			}, 
+			"model": "item/dbd/item/medical-kit/ranger_medical_kit",
+			"dbd-enum": "RANGER_MEDICAL_KIT",
+			"dbd-comment": "救助隊用医療キット"
+		},
+		{
+			"predicate": { 
+				"damage": 0.9847328244
+			}, 
+			"model": "item/dbd/item/medical-kit/emergency_medical_kit",
+			"dbd-enum": "EMERGENCY_MEDICAL_KIT",
+			"dbd-comment": "非常用医療キット"
+		},
+		{
+			"predicate": { 
+				"damage": 0.9923664122
+			}, 
+			"model": "item/dbd/item/medical-kit/first_medical_kit",
+			"dbd-enum": "FIRST_MEDICAL_KIT",
+			"dbd-comment": "救急箱"
+		},
+		{
+			"predicate": { 
+				"damage": 0.9999999999
+			}, 
+			"model": "item/dbd/item/medical-kit/portable_medical_kit",
+			"dbd-enum": "PORTABLE_MEDICAL_KIT",
+			"dbd-comment": "携帯用医療キット"
+		}
+	]
+}
