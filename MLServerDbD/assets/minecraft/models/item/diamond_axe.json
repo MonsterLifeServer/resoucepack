@@ -1,14 +1,49 @@
 {
 	"parent": "item/handheld",
+	"dbd-important": "必ずmodelのjsonファイル名はパークtextureのpngファイル名と統一してください！",
 	"textures": {
 		"layer0": "items/diamond_axe"
 	},
 	"overrides": [
 		{ 
 			"predicate": { 
-				"damage": 0.99871959026
+				"damage": 0.99743754
 			}, 
-			"model": "item/chain_saw_false"
+			"model": "item/dbd/parks/killer/sloppy_butcher",
+			"dbd-enum": "SLOPPY_BUTCHER",
+			"dbd-comment": "ずさんな肉屋"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.998078155
+			}, 
+			"model": "item/dbd/parks/killer/discordance",
+			"dbd-enum": "DISCORDANCE",
+			"dbd-comment": "不協和音"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99871877
+			}, 
+			"model": "item/dbd/parks/killer/agitation",
+			"dbd-enum": "AGITATION",
+			"dbd-comment": "興奮"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.999359385
+			}, 
+			"model": "item/dbd/parks/killer/unnerving_presence",
+			"dbd-enum": "UNNERVING_PRESENCE",
+			"dbd-comment": "不安の元凶"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9999999999
+			}, 
+			"model": "item/dbd/parks/killer/no-one-escapes-death",
+			"dbd-enum": "NO_ONE_ESCAPES_DEATH",
+			"dbd-comment": "呪術:誰も死から逃れられない"
 		}
 	]
 }
