@@ -6,6 +6,12 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9814221653
+			}, 
+			"model": "item/dbd/addon/killer/trapper/trapper_bag"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9820627803
 			}, 
 			"model": "item/dbd/addon/killer/trapper/serrated_jaws"
