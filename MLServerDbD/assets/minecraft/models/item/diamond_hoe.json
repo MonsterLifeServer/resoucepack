@@ -6,9 +6,21 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9820627803
+			}, 
+			"model": "item/dbd/addon/killer/trapper/serrated_jaws"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9827033953
+			}, 
+			"model": "item/dbd/addon/killer/trapper/iridescent_stone"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.9833440102
 			}, 
-			"model": "item/dbd/addon/makeshift-wrap"
+			"model": "item/dbd/addon/killer/trapper/makeshift-wrap"
 		},
 		{ 
 			"predicate": { 
