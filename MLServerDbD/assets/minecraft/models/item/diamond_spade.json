@@ -1,0 +1,56 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/diamond_spade"
+	},
+	"overrides": [
+		{ 
+			"predicate": { 
+				"damage": 0.996796925
+			}, 
+			"model": "item/dbd/addon/survivor/aidkit/butterfly_tape",
+			"dbd-enum": "BUTTERFLY_TAPE",
+			"dbd-comment": "バタフライテープ"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99743754
+			}, 
+			"model": "item/dbd/addon/killer/trapper/trapper_bag",
+			"dbd-enum": "TRAPPER_BAG",
+			"dbd-comment": "トラッパーの袋"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.998078155
+			}, 
+			"model": "item/dbd/addon/killer/trapper/serrated_jaws",
+			"dbd-enum": "SERRATED_JAWS",
+			"dbd-comment": "ギザギザした歯"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.99871877
+			}, 
+			"model": "item/dbd/addon/killer/trapper/iridescent_stone",
+			"dbd-enum": "IRIDESCENT_STONE",
+			"dbd-comment": "玉虫色の石"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.999359385
+			}, 
+			"model": "item/dbd/addon/killer/trapper/makeshift-wrap",
+			"dbd-enum": "MAKESHIFT_WRAP",
+			"dbd-comment": "間に合わせのサポーター"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9999999999
+			}, 
+			"model": "item/dbd/addon/survivor/aidkit/gel-pad",
+			"dbd-enum": "PAD_GEL",
+			"dbd-comment": "ジェルのパッド"
+		}
+	]
+}
