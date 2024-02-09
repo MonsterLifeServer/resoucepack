@@ -6,6 +6,22 @@
 	"overrides": [
 		{ 
 			"predicate": { 
+				"damage": 0.9955156951
+			}, 
+			"model": "item/dbd/addon/survivor/aidkit/rubber_gloves",
+			"dbd-enum": "RUBBER_GLOVES",
+			"dbd-comment": "ゴム手袋"
+		},
+		{ 
+			"predicate": { 
+				"damage": 0.9961563101
+			}, 
+			"model": "item/dbd/addon/survivor/aidkit/bandage",
+			"dbd-enum": "BANDAGE",
+			"dbd-comment": "包帯"
+		},
+		{ 
+			"predicate": { 
 				"damage": 0.996796925
 			}, 
 			"model": "item/dbd/addon/survivor/aidkit/butterfly_tape",
