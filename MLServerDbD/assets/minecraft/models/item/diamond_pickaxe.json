@@ -9,7 +9,7 @@
 			"predicate": { 
 				"damage": 0.9961563101
 			}, 
-			"model": "item/dbd/parks/survivar/botany_knowledge",
+			"model": "item/dbd/parks/survivor/botany_knowledge",
 			"dbd-enum": "BOTANY_KNOWLEDGE",
 			"dbd-comment": "植物学の知識"
 		},
@@ -17,7 +17,7 @@
 			"predicate": { 
 				"damage": 0.996796925
 			}, 
-			"model": "item/dbd/parks/survivar/adrenaline",
+			"model": "item/dbd/parks/survivor/adrenaline",
 			"dbd-enum": "ADRENALINE",
 			"dbd-comment": "アドレナリン"
 		},
@@ -25,7 +25,7 @@
 			"predicate": { 
 				"damage": 0.99743754
 			}, 
-			"model": "item/dbd/parks/survivar/sprint_burst",
+			"model": "item/dbd/parks/survivor/sprint_burst",
 			"dbd-enum": "SPRINT_BURST",
 			"dbd-comment": "全力疾走"
 		},
@@ -33,7 +33,7 @@
 			"predicate": { 
 				"damage": 0.998078155
 			}, 
-			"model": "item/dbd/parks/survivar/smart",
+			"model": "item/dbd/parks/survivor/smart",
 			"dbd-enum": "SMART",
 			"dbd-comment": "スマートな着地"
 		},
@@ -41,7 +41,7 @@
 			"predicate": { 
 				"damage": 0.99871877
 			}, 
-			"model": "item/dbd/parks/survivar/fixated",
+			"model": "item/dbd/parks/survivor/fixated",
 			"dbd-enum": "FIXATED",
 			"dbd-comment": "執着心"
 		},
@@ -49,7 +49,7 @@
 			"predicate": { 
 				"damage": 0.999359385
 			}, 
-			"model": "item/dbd/parks/survivar/selfcare",
+			"model": "item/dbd/parks/survivor/selfcare",
 			"dbd-enum": "SELF_CARE",
 			"dbd-comment": "セルフケア"
 		},
@@ -57,7 +57,7 @@
 			"predicate": { 
 				"damage": 0.9999999999
 			}, 
-			"model": "item/dbd/parks/survivar/dark-sense",
+			"model": "item/dbd/parks/survivor/dark-sense",
 			"dbd-enum": "DARK_SENSE",
 			"dbd-comment": "闇の感覚"
 		}

@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/dbd/parks/survivar/fixated"
+		"layer0": "items/dbd/parks/survivor/smart"
 	}
 }
