@@ -1,0 +1,33 @@
+{
+	"parent": "item/handheld",
+	"dbd-important": "必ずmodelのjsonファイル名はパークtextureのpngファイル名と統一してください！",
+	"textures": {
+		"layer0": "items/golden_spade"
+	},
+	"overrides": [
+		{
+			"predicate": { 
+				"damage": 0.9375
+			}, 
+			"model": "item/gui/get-over-button",
+			"dbd-enum": "GET_OVER",
+			"dbd-comment": "オブジェクトを乗り越える"
+		},
+		{
+			"predicate": { 
+				"damage": 0.96875
+			}, 
+			"model": "item/gui/arrow-before",
+			"dbd-enum": "ARROW_BEFORE",
+			"dbd-comment": "前"
+		},
+		{
+			"predicate": { 
+				"damage": 0.9999999999
+			}, 
+			"model": "item/gui/arrow-next",
+			"dbd-enum": "ARROW_NEXT",
+			"dbd-comment": "次"
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/dbd/addon/gel-pad"
+		"layer0": "items/dbd/addon/survivor/aidkit/gel-pad"
 	}
 }
