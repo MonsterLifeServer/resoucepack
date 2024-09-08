@@ -7,6 +7,14 @@
 	"overrides": [
 		{
 			"predicate": { 
+				"damage": 0.9923126201
+			}, 
+			"model": "item/dbd/parks/survivor/mine_disposal_team",
+			"dbd-enum": "MINE_DISPOSAL_TEAM",
+			"dbd-comment": "地雷処理班"
+		},
+		{
+			"predicate": { 
 				"damage": 0.9929532351
 			}, 
 			"model": "item/dbd/parks/survivor/botany_knowledge",
