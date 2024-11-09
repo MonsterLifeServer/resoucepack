@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"dbd-important": "必ずmodelのjsonファイル名はパークtextureのpngファイル名と統一してください！",
+	"textures": {
+		"layer0": "items/bow"
+	},
+	"overrides": [
+		{
+			"predicate": { 
+				"damage": 0.9973958333
+			}, 
+			"model": "item/dbd/item/killer/huntress/hatchet",
+			"dbd-enum": "HUNTRESS_HATCHET",
+			"dbd-comment": "斧"
+		}
+	]
+}
