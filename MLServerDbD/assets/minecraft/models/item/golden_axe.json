@@ -121,7 +121,7 @@
 			"predicate": { 
 				"damage": 0.53125
 			}, 
-			"model": "item/dbd/object/locker",
+			"model": "item/dbd/object/locker/locker",
 			"dbd-enum": "LOCKER",
 			"dbd-comment": "ロッカー"
 		},
