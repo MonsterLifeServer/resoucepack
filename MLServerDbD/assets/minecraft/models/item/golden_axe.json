@@ -2,9 +2,129 @@
 	"parent": "item/handheld",
 	"dbd-important": "必ずmodelのjsonファイル名はパークtextureのpngファイル名と統一してください！",
 	"textures": {
-		"layer0": "items/gold_hoe"
+		"layer0": "items/gold_axe"
 	},
 	"overrides": [
+		{
+			"predicate": { 
+				"damage": 0.09375
+			}, 
+			"model": "item/dbd/object/blood/blood10",
+			"dbd-enum": "BLOOD10",
+			"dbd-comment": "血10"
+		},
+		{
+			"predicate": { 
+				"damage": 0.125
+			}, 
+			"model": "item/dbd/object/blood/blood9",
+			"dbd-enum": "BLOOD9",
+			"dbd-comment": "血9"
+		},
+		{
+			"predicate": { 
+				"damage": 0.15625
+			}, 
+			"model": "item/dbd/object/blood/blood8",
+			"dbd-enum": "BLOOD8",
+			"dbd-comment": "血8"
+		},
+		{
+			"predicate": { 
+				"damage": 0.1875
+			}, 
+			"model": "item/dbd/object/blood/blood7",
+			"dbd-enum": "BLOOD7",
+			"dbd-comment": "血7"
+		},
+		{
+			"predicate": { 
+				"damage": 0.21875
+			}, 
+			"model": "item/dbd/object/blood/blood6",
+			"dbd-enum": "BLOOD6",
+			"dbd-comment": "血6"
+		},
+		{
+			"predicate": { 
+				"damage": 0.25
+			}, 
+			"model": "item/dbd/object/blood/blood5",
+			"dbd-enum": "BLOOD5",
+			"dbd-comment": "血5"
+		},
+		{
+			"predicate": { 
+				"damage": 0.28125
+			}, 
+			"model": "item/dbd/object/blood/blood4",
+			"dbd-enum": "BLOOD4",
+			"dbd-comment": "血4"
+		},
+		{
+			"predicate": { 
+				"damage": 0.3125
+			}, 
+			"model": "item/dbd/object/blood/blood3",
+			"dbd-enum": "BLOOD3",
+			"dbd-comment": "血3"
+		},
+		{
+			"predicate": { 
+				"damage": 0.34375
+			}, 
+			"model": "item/dbd/object/blood/blood2",
+			"dbd-enum": "BLOOD2",
+			"dbd-comment": "血2"
+		},
+		{
+			"predicate": { 
+				"damage": 0.375
+			}, 
+			"model": "item/dbd/object/blood/blood1",
+			"dbd-enum": "BLOOD1",
+			"dbd-comment": "血1"
+		},
+		{
+			"predicate": { 
+				"damage": 0.40625
+			}, 
+			"model": "item/dbd/object/totem/rekindled",
+			"dbd-enum": "REKINDLED_TOTEM",
+			"dbd-comment": "復活のトーテム"
+		},
+		{
+			"predicate": { 
+				"damage": 0.4375
+			}, 
+			"model": "item/dbd/object/totem/boon",
+			"dbd-enum": "BOON_TOTEM",
+			"dbd-comment": "恵みのトーテム"
+		},
+		{
+			"predicate": { 
+				"damage": 0.46875
+			}, 
+			"model": "item/dbd/object/totem/hex",
+			"dbd-enum": "HEX_TOTEM",
+			"dbd-comment": "呪いのトーテム"
+		},
+		{
+			"predicate": { 
+				"damage": 0.5
+			}, 
+			"model": "item/dbd/object/totem/dull",
+			"dbd-enum": "DULL_TOTEM",
+			"dbd-comment": "無力のトーテム"
+		},
+		{
+			"predicate": { 
+				"damage": 0.53125
+			}, 
+			"model": "item/dbd/object/locker",
+			"dbd-enum": "LOCKER",
+			"dbd-comment": "ロッカー"
+		},
 		{
 			"predicate": { 
 				"damage": 0.5625
